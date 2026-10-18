@@ -1,27 +1,133 @@
+# Navaneeth R Varma
 
-# Hi, I'm Navaneeth R Varma 👋<br><br>🚀 **AI/ML Engineer | LLM & Agentic AI Engineer | Backend Developer**<br><br>I'm an AI/ML Engineer passionate about building scalable AI-powered applications, intelligent agents, and production-ready backend systems. I specialize in **LLMs, Retrieval-Augmented Generation (RAG), agentic workflows, and backend engineering** using TypeScript and Python.<br><br>🎓 I hold an Integrated M.Sc. in Statistics from Cochin University of Science and Technology (CUSAT), combining statistical foundations with practical AI and software engineering.<br><br>### 💻 What I Work On<br>- 🤖 Building AI agents and multi-step workflows using **LangChain, LangGraph, and Mastra AI**<br>- 🧠 Developing LLM applications, RAG pipelines, and context-aware AI systems<br>- ⚙️ Designing scalable backend services using **TypeScript, Node.js, and Go**<br>- 🗄️ Working with PostgreSQL, MySQL, REST APIs, and microservices<br>- 📊 Applying machine learning, statistical modeling, and data analytics to real-world problems<br>- 🏥 Exploring AI-driven healthcare solutions and intelligent automation<br><br>### 🛠️ Tech Stack<br>- **Languages:** TypeScript, Python, Go, SQL<br>- **AI & ML:** LLMs, RAG, Agentic AI, LangChain, LangGraph, Mastra AI, Scikit-learn<br>- **Backend:** Node.js, REST APIs, Microservices, System Design<br>- **Databases:** PostgreSQL, MySQL<br>- **Tools:** Git, Docker, Postman, Power BI<br><br>### 🎯 Current Focus<br>- Building production-ready agentic AI systems<br>- Deepening my knowledge of Data Structures & Algorithms and System Design<br>- Exploring scalable AI architectures and reliable workflow orchestration<br>- Contributing to projects that solve meaningful real-world problems<br><br>### 🤝 Let's Connect<br>- 💼 [LinkedIn](https://www.linkedin.com/in/navaneethvarmaraja/)<br>- 📧 Email: navismessenger007@gmail.com<br><br>---<br><br>💡 *I believe in learning by building, solving meaningful problems, and turning ideas into impactful technology.*
+**AI/ML Engineer | Agentic AI Engineer | Backend Engineer**
 
+I design and build AI-powered applications, agentic workflows, and scalable backend systems. My work focuses on LLM engineering, Retrieval-Augmented Generation (RAG), workflow orchestration, API development, and production-oriented software architecture.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/765837406716297216) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/navaneethvarmaraja) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navismessenger007@gmail.com) 
-
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Navaneethvarma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Navaneethvarma&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Navaneethvarma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Navaneethvarma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Navaneethvarma&limit=5&theme=dark&combine_all_yearly_contributions=true)
+With an academic background in Statistics and practical experience in AI and backend development, I combine analytical thinking with engineering principles to build reliable, maintainable, and data-driven solutions.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Navaneethvarma&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
+## About Me
+
+- Developing LLM-powered applications and agentic AI systems.
+- Building multi-step workflows and intelligent automation using LangChain, LangGraph, and Mastra AI.
+- Designing backend services and REST APIs using TypeScript, Node.js, and Go.
+- Working with relational databases, data pipelines, and machine learning workflows.
+- Exploring scalable system design, distributed systems, and production AI architecture.
+- Interested in building technology that solves meaningful real-world problems.
+
+## Technical Skills
+
+**Programming Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**AI Engineering and Machine Learning**
+
+![LLMs](https://img.shields.io/badge/LLM_Engineering-412991?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0A7EA4?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![Mastra AI](https://img.shields.io/badge/Mastra_AI-6C47FF?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+**Backend Engineering and Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
+
+**Developer Tools and Infrastructure**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Data Science and Analytics**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SAS](https://img.shields.io/badge/SAS-005EB8?style=flat-square)
+
+## Featured Projects
+
+### ICARE 1.0 — AI Hospital Platform
+
+Healthcare-focused platform combining disease-risk prediction, clinical workflows, and patient intake automation.
+
+- Developed healthcare-oriented AI functionality and backend workflows.
+- Applied machine learning to clinical risk prediction.
+- Focused on improving operational efficiency in healthcare settings.
+
+[View Repository](https://github.com/navaneethofficial18-collab/ICARE1.0)
+
+### Agenro AI Platform
+
+An AI-powered workflow automation platform built around agent orchestration and context-aware task execution.
+
+- Developed agentic workflows using Mastra AI.
+- Worked on multi-tenant backend architecture and task routing.
+- Focused on enterprise workflow automation.
+
+[Visit Website](https://agenro.com)
+
+### Uber Analysis Dashboard
+
+An interactive Power BI dashboard for exploring ride-sharing data and business performance.
+
+- Analyzed trip patterns, fares, vehicle types, and pickup locations.
+- Built KPI visualizations and geographic insights.
+
+[View Repository](https://github.com/Navaneethvarma/Uber-Analysis-Dashboard)
+
+## Current Focus
+
+- Production-grade agentic AI and LLM application development.
+- Reliable RAG pipelines and context-aware AI systems.
+- Data Structures and Algorithms, system design, and backend architecture.
+- Scalable services, workflow orchestration, and software engineering best practices.
+
+## Education
+
+**Integrated M.Sc. in Statistics**  
+Cochin University of Science and Technology (CUSAT) | 2020–2025
+
+## Certifications
+
+- Data Analytics with Python — NPTEL, IIT Roorkee
+- Enterprise Data Science — IBM
+- AI & Data Science — One Roadmap
+- Python for RNN Time Series — ShapeAI
+
+## Connect
+
+- LinkedIn: [navaneethvarmaraja](https://www.linkedin.com/in/navaneethvarmaraja/)
+- Email: [navismessenger007@gmail.com](mailto:navismessenger007@gmail.com)
+- GitHub: [Navaneethvarma](https://github.com/Navaneethvarma)
+
+---
+
+*Building intelligent systems with an emphasis on sound engineering, scalability, and practical impact.*
+
+<!-- GitHub profile analytics -->
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Navaneethvarma&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Navaneethvarma&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneethvarma&layout=compact&theme=tokyonight&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Navaneethvarma&style=flat-square&color=blue)
